@@ -13,7 +13,7 @@ Information on feature availability per ABI version can be found [here](https://
   * One or both of:
     * `CONFIG_LSM` contains the value: `landlock`
     * The kernel command line parameter `lsm` contains the value: `landlock`
-* [node.js](http://nodejs.org/) -- v10.x or newer
+* [node.js](http://nodejs.org/) -- tested/supported on v16.x or newer
 * An appropriate build environment -- see [node-gyp's documentation](https://github.com/nodejs/node-gyp/blob/main/README.md)
 
 # Installation
